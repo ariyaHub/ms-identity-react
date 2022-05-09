@@ -14,7 +14,7 @@ export const msalConfig = {
     auth: {
         clientId: "xxx",
         authority: "xxx",
-        redirectUri: "http://localhost:3000/"
+        redirectUri: "xxx"
     },
     cache: {
         cacheLocation: "sessionStorage", // This configures where your cache will be stored
